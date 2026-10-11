@@ -116,7 +116,7 @@ These experiences have strengthened my understanding of cybersecurity concepts, 
 ## 🤝 Let's Connect
 
 - **GitHub:** [Explore My Projects](https://github.com/)
-- **LinkedIn:** [Connect With Me](https://www.linkedin.com/)
+- **LinkedIn:** www.linkedin.com/in/sundaytanimowo
 
 I welcome opportunities to learn, collaborate, share knowledge, and help improve cybersecurity resilience.
 
