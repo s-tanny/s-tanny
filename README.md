@@ -1,16 +1,120 @@
-## Hi there 👋
+# 👋 Hello, I'm Sunday
 
-<!--
-**s-tanny/s-tanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Analyst | Threat Detection | Security Operations | Incident Response
 
-Here are some ideas to get you started:
+I am a Cybersecurity Analyst committed to safeguarding critical systems and sensitive data by proactively identifying, mitigating, and responding to cyber threats. With expertise spanning threat detection, risk assessment, penetration testing, and compliance, I help organizations fortify their security posture against evolving threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about cybersecurity, continuous learning, and developing practical skills to identify vulnerabilities, investigate suspicious activities, and strengthen the security of digital environments.
+
+---
+
+## 🔐 Core Cybersecurity Interests
+
+- Threat Detection and Analysis
+- Security Operations Centre (SOC)
+- Security Monitoring and Log Analysis
+- Incident Detection and Response
+- Cyber Threat Intelligence
+- Indicators of Compromise (IOCs) Analysis
+- Network Security and Firewall Management
+- Vulnerability Assessment
+- Ethical Hacking and Penetration Testing
+- Security Risk Assessment
+
+## 🛠️ Tools & Technologies
+
+### Security Monitoring and SIEM
+- Splunk
+- Wazuh
+- Microsoft Sentinel
+
+### Network Security and Analysis
+- Wireshark
+- Nmap
+- pfSense
+- Cisco Packet Tracer
+
+### Operating Systems and Scripting
+- Kali Linux
+- Windows
+- Ubuntu Linux
+- Python
+- PowerShell
+
+*I continue to develop my proficiency with these tools through structured training, hands-on exercises, and cybersecurity lab projects.*
+
+---
+
+## 🧪 Cybersecurity Projects & Hands-On Labs
+
+### 🔎 1. Threat Intelligence Lab
+- Integrating threat intelligence sources and APIs.
+- Exploring Indicators of Compromise (IOCs), including suspicious and malicious IP addresses.
+- Learning to collect and analyse threat intelligence data.
+- Documenting findings and investigation workflows.
+
+### 🛡️ 2. pfSense Firewall and Network Security Lab
+- Installing and configuring pfSense in a virtualised environment.
+- Exploring firewall rules and network traffic filtering.
+- Learning how firewall policies help protect networks.
+- Testing network connectivity and documenting security configurations.
+
+### 🌐 3. Cisco Packet Tracer Network Security Lab
+- Designing and configuring virtual network topologies.
+- Configuring IP addressing and network connectivity.
+- Implementing Access Control Lists (ACLs).
+- Testing permitted and denied traffic between network segments.
+- Documenting network security configurations and test results.
+
+### 🚨 4. SOC Analyst Home Lab
+- Building a virtual cybersecurity environment using Kali Linux, Windows, and Ubuntu.
+- Exploring security event collection and log analysis.
+- Developing SIEM knowledge and threat detection skills.
+- Practising security investigation and incident response workflows.
+
+*Project repositories, configurations, screenshots, findings, and technical documentation will be added as the labs develop.*
+
+---
+
+## 🎓 Certifications & Cybersecurity Training
+
+- **Google Cybersecurity Professional Certificate**
+- **Ethical Hacking & Defence**
+
+## 💼 Virtual Internships & Job Simulations
+
+Virtual learning experiences and job simulations completed:
+
+- **Commonwealth Bank** — Introduction to Cybersecurity
+- **Datacom** — Cybersecurity Operations
+- **Telstra** — Cybersecurity Simulation
+- **Mastercard** — Cybersecurity Simulation
+- **Deloitte** — Cybersecurity Job Simulation
+- **AIG** — Cybersecurity Simulation
+
+These experiences have strengthened my understanding of cybersecurity concepts, security operations, threat awareness, and practical problem-solving.
+
+---
+
+## 🌱 Current Learning Goals
+
+- Strengthen SIEM monitoring, log analysis, and alert investigation skills.
+- Develop practical threat detection and incident triage capabilities.
+- Improve incident response and security investigation techniques.
+- Expand my knowledge of network defence and firewall management.
+- Develop Python and PowerShell scripting skills for security tasks.
+- Build and document practical cybersecurity projects.
+- Continue progressing towards a Security Operations Centre (SOC) Analyst role.
+
+---
+
+## 🤝 Let's Connect
+
+- **GitHub:** [Explore My Projects](https://github.com/)
+- **LinkedIn:** [Connect With Me](https://www.linkedin.com/)
+
+I welcome opportunities to learn, collaborate, share knowledge, and help improve cybersecurity resilience.
+
+---
+
+⭐ *Committed to continuous learning, practical security research, and defending digital environments against evolving cyber threats.*
