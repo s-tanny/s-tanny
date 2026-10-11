@@ -85,12 +85,17 @@ I am passionate about cybersecurity, continuous learning, and developing practic
 
 Virtual learning experiences and job simulations completed:
 
-- **Commonwealth Bank** — Introduction to Cybersecurity
-- **Datacom** — Cybersecurity Operations
-- **Telstra** — Cybersecurity Simulation
-- **Mastercard** — Cybersecurity Simulation
-- **Deloitte** — Cybersecurity Job Simulation
-- **AIG** — Cybersecurity Simulation
+[![Commonwealth Bank](https://img.shields.io/badge/Commonwealth%20Bank-Intro%20to%20Cybersecurity-4b8fea?style=flat-square)](https://tinyurl.com/4dh96j2e)
+
+[![Datacom](https://img.shields.io/badge/Datacom-Cybersecurity%20Operations-0c6db3?style=flat-square)](https://tinyurl.com/26ckpeb8)
+
+[![Telstra](https://img.shields.io/badge/Telstra-Cybersecurity%20Simulation-7a00cc?style=flat-square)](https://tinyurl.com/435rwaa7)
+
+[![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity%20Simulation-eb001b?style=flat-square)](https://tinyurl.com/2nbttmrf)
+
+[![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-0c9d58?style=flat-square)](https://tinyurl.com/4hh9cyed)
+
+[![AIG](https://img.shields.io/badge/AIG-Cybersecurity%20Simulation-0033a0?style=flat-square)](https://tinyurl.com/2n84rm6e)
 
 These experiences have strengthened my understanding of cybersecurity concepts, security operations, threat awareness, and practical problem-solving.
 
